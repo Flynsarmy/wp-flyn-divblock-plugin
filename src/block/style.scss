@@ -1,0 +1,23 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-fdb-open-div  {
+  border: 0.1rem dashed $black;
+  border-bottom:none;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+  background-color: #e8e8e8;
+}
+
+.wp-block-fdb-close-div  {
+  border: 0.1rem dashed $black;
+  border-top:none;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+  background-color: #e8e8e8;
+}
